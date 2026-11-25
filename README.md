@@ -59,13 +59,13 @@ This project implements Logistic Regression for a binary classification problem.
 ## Results
 *Update this section after executing the notebook.*
 
-- Accuracy: ______
-- Precision: ______
-- Recall: ______
-- Specificity: ______
-- F1-score: ______
-- ROC-AUC: ______
-- Recommended threshold: ______
+- Accuracy: 92.11%
+- Precision: 90.24%
+- Recall: 88.10%
+- Specificity: 94.44%
+- F1-score: 0.8916
+- ROC-AUC: 0.9821
+- Recommended threshold: 0.3
 
 ## Conclusion
 This activity demonstrates Binary Classification using Logistic Regression. The model is evaluated using multiple classification metrics and compared against a majority-class baseline. Different decision thresholds are tested to understand the trade-off between precision and recall.
