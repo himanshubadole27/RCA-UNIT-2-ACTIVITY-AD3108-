@@ -57,7 +57,6 @@ This project implements Logistic Regression for a binary classification problem.
 3. Review the generated plots, confusion matrix and evaluation metrics.
 
 ## Results
-*Update this section after executing the notebook.*
 
 - Accuracy: 92.11%
 - Precision: 90.24%
